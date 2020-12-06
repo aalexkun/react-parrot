@@ -3,1015 +3,1015 @@
     "src": "parrots/60fpsparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/60fpsparrot.gif",
-    "id": "14dd2757-f20b-4355-ba1c-e0b010bd30ea",
-    "visible": "off"
+    "id": "d42e07af-4876-443c-858c-ed2e912dd982",
+    "visible": false
   },
   {
     "src": "parrots/angelparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/angelparrot.gif",
-    "id": "c68ddd34-b017-4359-913b-309c7d6050ff",
-    "visible": "off"
+    "id": "92096af5-5501-4068-bf06-cab0caa5ffda",
+    "visible": false
   },
   {
     "src": "parrots/angryparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/angryparrot.gif",
-    "id": "bd22cd98-500b-4526-b175-247fa575124c",
-    "visible": "off"
+    "id": "57143466-fc07-4291-a0bb-5bd75381267d",
+    "visible": false
   },
   {
     "src": "parrots/aussiecongaparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/aussiecongaparrot.gif",
-    "id": "e86d5032-2088-4c7d-871c-bedea5a51f3a",
-    "visible": "off"
+    "id": "6487c451-7a7e-45c4-9798-49d953f5d49a",
+    "visible": false
   },
   {
     "src": "parrots/aussieparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/aussieparrot.gif",
-    "id": "e5caa314-eea9-4d78-8e99-92deec7d8232",
-    "visible": "off"
+    "id": "30a4a1e7-0fe7-475d-87d8-683b1339034c",
+    "visible": false
   },
   {
     "src": "parrots/aussiereversecongaparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/aussiereversecongaparrot.gif",
-    "id": "4320cd9b-8c30-4af7-b4d3-7dd04fea47f2",
-    "visible": "off"
+    "id": "29a8cdf1-cd97-4fdb-88ed-99aba4f09152",
+    "visible": false
   },
   {
     "src": "parrots/backwardsparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/backwardsparrot.gif",
-    "id": "0467a786-fddc-4f91-9ae7-471ee630411c",
-    "visible": "off"
+    "id": "35b4678f-b450-4aa4-a1dd-64ae472f18fe",
+    "visible": false
   },
   {
     "src": "parrots/beerparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/beerparrot.gif",
-    "id": "15aae403-4e4e-4a89-86bc-1ffbd25ef3ba",
-    "visible": "off"
+    "id": "4a121738-8064-46c2-8bc2-6e32f486c00d",
+    "visible": false
   },
   {
     "src": "parrots/beretparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/beretparrot.gif",
-    "id": "dee65a40-839e-4771-8801-89f60afcece3",
-    "visible": "off"
+    "id": "bc3817fa-6141-4ba7-a68c-3529ce1ef011",
+    "visible": false
   },
   {
     "src": "parrots/bikerparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/bikerparrot.gif",
-    "id": "720481d1-490f-421f-8d3e-323c992ce873",
-    "visible": "off"
+    "id": "a4fc78e6-8330-4d85-a677-3ce4bd395b23",
+    "visible": false
   },
   {
     "src": "parrots/biparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/biparrot.gif",
-    "id": "31e9f5d8-891d-4fbe-976a-f39c1b3a7e1a",
-    "visible": "off"
+    "id": "cad6bc51-b7cf-4997-b2a7-22a20404c95a",
+    "visible": false
   },
   {
     "src": "parrots/birthdaypartyparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/birthdaypartyparrot.gif",
-    "id": "5df6b932-0c48-4336-b962-3fbf5f5d05c2",
-    "visible": "off"
+    "id": "81d60cd4-7860-4e6d-adfa-43610154f26e",
+    "visible": false
   },
   {
     "src": "parrots/bluntparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/bluntparrot.gif",
-    "id": "ef13d487-1155-4eff-a4ef-59105eeb2d2f",
-    "visible": "off"
+    "id": "814d4b03-9306-4981-b3cd-3c6b7d94df0f",
+    "visible": false
   },
   {
     "src": "parrots/bobaparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/bobaparrot.gif",
-    "id": "7e830121-ca57-4fc1-afd3-93324ccc084b",
-    "visible": "off"
+    "id": "de078d6d-d4c2-443c-affc-c273a9526338",
+    "visible": false
   },
   {
     "src": "parrots/bootlegparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/bootlegparrot.gif",
-    "id": "e6043645-badc-4c9b-9813-357a5fc8dc22",
-    "visible": "off"
+    "id": "e8e6687c-ffca-4c62-9ac6-42bd2e46c88f",
+    "visible": false
   },
   {
     "src": "parrots/boredparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/boredparrot.gif",
-    "id": "87708581-e3b3-44a2-81cd-c25fb10b7d04",
-    "visible": "off"
+    "id": "46fe0b2a-d64b-4d0a-9bb0-8a7031429a3e",
+    "visible": false
   },
   {
     "src": "parrots/bouncingparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/bouncingparrot.gif",
-    "id": "2c205fda-150f-4a3e-a41d-c7b4a5c85a5e",
-    "visible": "off"
+    "id": "07cc8ea6-3677-4c66-acf4-216d23eea4c5",
+    "visible": false
   },
   {
     "src": "parrots/brazilianfanparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/brazilianfanparrot.gif",
-    "id": "1449cb92-dd5f-4b91-bee5-e4282dba8cb4",
-    "visible": "off"
+    "id": "d31fe01b-4013-48e5-a084-7d1db62f8a67",
+    "visible": false
   },
   {
     "src": "parrots/brazilianplayerparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/brazilianplayerparrot.gif",
-    "id": "d66a760d-ba80-4279-95be-7a43a0f8b268",
-    "visible": "off"
+    "id": "c4c5ee1c-89f7-4c28-8ca8-6c6c74071c4f",
+    "visible": false
   },
   {
     "src": "parrots/bunnyparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/bunnyparrot.gif",
-    "id": "7f8667cf-60a1-4223-b814-708693cf797e",
-    "visible": "off"
+    "id": "e69e0cee-df8d-4220-b30a-f6b32b9fefd6",
+    "visible": false
   },
   {
     "src": "parrots/cakeparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/cakeparrot.gif",
-    "id": "89801884-fb80-41aa-8be7-9c1039de46a8",
-    "visible": "off"
+    "id": "29acad93-b9aa-4bb7-b1c6-c735ce200267",
+    "visible": false
   },
   {
     "src": "parrots/calvinist_parrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/calvinist_parrot.gif",
-    "id": "b59b0b21-b73d-42a8-9a40-8619295fdb3d",
-    "visible": "off"
+    "id": "643ac768-7214-4685-ba2f-f50cd716247d",
+    "visible": false
   },
   {
     "src": "parrots/ceilingparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/ceilingparrot.gif",
-    "id": "30eed187-8529-473b-9ddf-6738e4baefa6",
-    "visible": "off"
+    "id": "f9ee4261-7dd4-430a-9be1-733b93f801af",
+    "visible": false
   },
   {
     "src": "parrots/chicoparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/chicoparrot.gif",
-    "id": "368c34cf-3f1b-44de-85a2-e672fc3b56b9",
-    "visible": "off"
+    "id": "937befbb-52bc-4994-ac46-4cb76eb6f24b",
+    "visible": false
   },
   {
     "src": "parrots/christmasparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/christmasparrot.gif",
-    "id": "4f91ca7d-b55f-4567-9b56-2d5f35865a55",
-    "visible": "off"
+    "id": "d52f188a-f1fc-4187-99ac-3dfb904efce9",
+    "visible": false
   },
   {
     "src": "parrots/confusedparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/confusedparrot.gif",
-    "id": "6bced043-9be5-43f9-a48d-18c0d96d6031",
-    "visible": "off"
+    "id": "f10b0fd2-4ad4-4449-b1df-0d3de5833cd3",
+    "visible": false
   },
   {
     "src": "parrots/congaparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/congaparrot.gif",
-    "id": "01e49fc3-f8a3-4635-b6fe-7ae786b18527",
-    "visible": "off"
+    "id": "b1c84a4a-55dc-454f-98ca-1350fb9814f5",
+    "visible": false
   },
   {
     "src": "parrots/congapartyparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/congapartyparrot.gif",
-    "id": "d6e795f6-70b2-4d97-810f-95af3ad72319",
-    "visible": "off"
+    "id": "4c2acf96-f30a-4532-a493-7e2b72b57727",
+    "visible": false
   },
   {
     "src": "parrots/copparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/copparrot.gif",
-    "id": "a11fec1f-8f28-4825-8ff2-44a16791f42d",
-    "visible": "off"
+    "id": "2ea0dbcb-45f9-4ded-9c03-62c8e0869325",
+    "visible": false
   },
   {
     "src": "parrots/covid19parrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/covid19parrot.gif",
-    "id": "2a333130-3ba9-42ef-a0cc-a33728d698ef",
-    "visible": "off"
+    "id": "ebd59569-76a4-4ab5-a2ea-120e95b8abb4",
+    "visible": false
   },
   {
     "src": "parrots/dadparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/dadparrot.gif",
-    "id": "987b942e-560b-4710-b9e1-2ebec50beb73",
-    "visible": "off"
+    "id": "12014d92-9067-4691-a1b9-dca6edea8614",
+    "visible": false
   },
   {
     "src": "parrots/daftpunkparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/daftpunkparrot.gif",
-    "id": "7a9e79d8-b103-42e7-866b-f231de09ac0d",
-    "visible": "off"
+    "id": "25427de7-6a4f-4858-b7e1-278da23a1fba",
+    "visible": false
   },
   {
     "src": "parrots/dailyparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/dailyparrot.gif",
-    "id": "538e5b38-b48e-4d15-8eb6-bb0022a6c231",
-    "visible": "off"
+    "id": "e292c31b-f8c1-4a25-b24d-c476f5bdbcfc",
+    "visible": false
   },
   {
     "src": "parrots/darkmodeparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/darkmodeparrot.gif",
-    "id": "8938a014-d3d3-4211-9385-9cc95590883f",
-    "visible": "off"
+    "id": "e733529e-6671-4eb6-b247-7c58c5e255a4",
+    "visible": false
   },
   {
     "src": "parrots/dealwithitnowparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/dealwithitnowparrot.gif",
-    "id": "54cce272-bd9d-4407-8b24-fc8098c4282d",
-    "visible": "off"
+    "id": "ace27d93-e5b7-40fc-a159-467d252a237d",
+    "visible": false
   },
   {
     "src": "parrots/dealwithitparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/dealwithitparrot.gif",
-    "id": "c3b7b122-14c3-4898-9c2f-ef80e8a2b3dd",
-    "visible": "off"
+    "id": "2898780c-f6a8-4991-8ef4-33555a48e02d",
+    "visible": false
   },
   {
     "src": "parrots/discoparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/discoparrot.gif",
-    "id": "67aafbf2-72e8-491d-a345-49b0ee93bbba",
-    "visible": "off"
+    "id": "030d3c63-3f15-4236-acdf-0a628ddd22d7",
+    "visible": false
   },
   {
     "src": "parrots/docparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/docparrot.gif",
-    "id": "77daf945-0ceb-41b1-bec0-9d22a328ecaf",
-    "visible": "off"
+    "id": "72b103aa-399c-4d92-8716-2511db4f9e14",
+    "visible": false
   },
   {
     "src": "parrots/donutparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/donutparrot.gif",
-    "id": "4db2bf70-e821-4297-b4fe-b52d40b69e41",
-    "visible": "off"
+    "id": "bde0fdba-7980-4a09-a643-e22aa5cee890",
+    "visible": false
   },
   {
     "src": "parrots/everythingsfineparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/everythingsfineparrot.gif",
-    "id": "62b5db9b-1255-453b-a216-4584aadbe3d2",
-    "visible": "off"
+    "id": "4feb2671-3d60-4532-987e-35e3fe88f920",
+    "visible": false
   },
   {
     "src": "parrots/evilparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/evilparrot.gif",
-    "id": "32a7b7a0-ed6c-42b0-b1e8-e64ca2f9d561",
-    "visible": "off"
+    "id": "7c53f7d9-2f66-4b74-8718-9d11b77e9a52",
+    "visible": false
   },
   {
     "src": "parrots/fastparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/fastparrot.gif",
-    "id": "c48bf245-21d0-4e56-a87a-8fcfdeba046f",
-    "visible": "off"
+    "id": "1cab655a-fb4d-4a08-9dc0-7f744361f01f",
+    "visible": false
   },
   {
     "src": "parrots/flowerparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/flowerparrot.gif",
-    "id": "ed57e26e-48df-4353-82df-6afb43bb00b0",
-    "visible": "off"
+    "id": "591ee75c-3f0c-4c7d-8341-fc2f2a434abb",
+    "visible": false
   },
   {
     "src": "parrots/flyingmoneyparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/flyingmoneyparrot.gif",
-    "id": "94e88b53-519e-4b9f-83e4-53860451fb6a",
-    "visible": "off"
+    "id": "d7f36496-e867-4a65-ab25-b5ae56651b93",
+    "visible": false
   },
   {
     "src": "parrots/footballparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/footballparrot.gif",
-    "id": "992d8198-5a57-47e0-b2cf-61995ab680b2",
-    "visible": "off"
+    "id": "0f3e87fb-df96-4cab-8b3c-2a174cb68716",
+    "visible": false
   },
   {
     "src": "parrots/frenchparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/frenchparrot.gif",
-    "id": "0c7b7df9-43f5-49dc-ab0d-2543c4af9155",
-    "visible": "off"
+    "id": "b1543401-4142-4a7f-b4b7-a047941945cb",
+    "visible": false
   },
   {
     "src": "parrots/gentlemanparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/gentlemanparrot.gif",
-    "id": "7811087e-78c4-429c-8ad6-38e9df959f01",
-    "visible": "off"
+    "id": "cf2bbecc-e5f6-4d34-8e1e-002ff4c8a98d",
+    "visible": false
   },
   {
     "src": "parrots/githubparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/githubparrot.gif",
-    "id": "ebf4f04b-e5cd-4b58-9642-7be1da7407f6",
-    "visible": "off"
+    "id": "352f866d-8447-4431-a30f-bfb70329328a",
+    "visible": false
   },
   {
     "src": "parrots/glimpseparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/glimpseparrot.gif",
-    "id": "a3207e15-eabc-4fd3-a9a6-9bbe6a5c4570",
-    "visible": "off"
+    "id": "08b46426-4c6d-4327-b641-bd7037d4ce57",
+    "visible": false
   },
   {
     "src": "parrots/gothparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/gothparrot.gif",
-    "id": "e08cdc42-ed90-4aeb-aa80-25e3b7f2ca1e",
-    "visible": "off"
+    "id": "18a482cd-bd70-4176-80f5-ba385f978686",
+    "visible": false
   },
   {
     "src": "parrots/grouchoparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/grouchoparrot.gif",
-    "id": "b43a93b7-bedf-40a1-a6ff-5406dfff615a",
-    "visible": "off"
+    "id": "b682afa9-6b2c-41aa-9878-2065859fa97e",
+    "visible": false
   },
   {
     "src": "parrots/hanamiparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/hanamiparrot.gif",
-    "id": "568dd437-e6ba-47fa-a588-ad8d42b371d6",
-    "visible": "off"
+    "id": "62a544d6-fbb2-4475-8e25-ec1847570119",
+    "visible": false
   },
   {
     "src": "parrots/hardhatparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/hardhatparrot.gif",
-    "id": "9cad33d8-70b4-4344-bc71-80f4293f4c53",
-    "visible": "off"
+    "id": "e89e6595-e09d-489e-8ea8-827243efeff8",
+    "visible": false
   },
   {
     "src": "parrots/harpoparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/harpoparrot.gif",
-    "id": "acdca46e-93e0-4af4-a1e9-13e0e87f4a27",
-    "visible": "off"
+    "id": "7d065ac1-a22e-4aa5-af50-877245895329",
+    "visible": false
   },
   {
     "src": "parrots/headbangingparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/headbangingparrot.gif",
-    "id": "848e48b4-d45c-4c20-b45d-acf88b35b8fd",
-    "visible": "off"
+    "id": "78a6b2f4-fc8a-4d75-b627-3c39c62cfa24",
+    "visible": false
   },
   {
     "src": "parrots/headingparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/headingparrot.gif",
-    "id": "dda29af2-8c92-4151-a049-b5affb3f3d0f",
-    "visible": "off"
+    "id": "7c0b5cee-ee35-428b-97ef-1c3bec474296",
+    "visible": false
   },
   {
     "src": "parrots/headsetparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/headsetparrot.gif",
-    "id": "d7c3c24f-8ef2-4308-9dd4-13a6674e3c64",
-    "visible": "off"
+    "id": "93571b72-c8b2-4a22-b460-b23fe769ee29",
+    "visible": false
   },
   {
     "src": "parrots/hmmparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/hmmparrot.gif",
-    "id": "eebf4ba8-2d64-4992-ba3d-8f9b6da11046",
-    "visible": "off"
+    "id": "bf4f994e-de14-4377-8fa5-6fa834d7e7ad",
+    "visible": false
   },
   {
     "src": "parrots/horizontalparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/horizontalparrot.gif",
-    "id": "034543b5-9833-499e-816a-24ba32e16e6c",
-    "visible": "off"
+    "id": "81f6a47f-af1b-427d-aa15-d1dab836c96b",
+    "visible": false
   },
   {
     "src": "parrots/hypnoparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/hypnoparrot.gif",
-    "id": "383964fd-3ee2-43a0-a4fa-31ff263474d6",
-    "visible": "off"
+    "id": "fc8a8455-f5f1-4d46-837c-5414d7175844",
+    "visible": false
   },
   {
     "src": "parrots/hypnoparrotdark.gif",
     "className": "Parrot",
     "dataSrc": "parrots/hypnoparrotdark.gif",
-    "id": "40c291a9-91bd-40bc-bd94-ad6335841d01",
-    "visible": "off"
+    "id": "05876e16-6207-45c8-a713-03760378fba2",
+    "visible": false
   },
   {
     "src": "parrots/hypnoparrotlight.gif",
     "className": "Parrot",
     "dataSrc": "parrots/hypnoparrotlight.gif",
-    "id": "d3e16a8c-6008-4166-a075-2426dd8016ee",
-    "visible": "off"
+    "id": "3b417cef-9a32-4a9f-a65e-8d1776c8ea77",
+    "visible": false
   },
   {
     "src": "parrots/illuminatiparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/illuminatiparrot.gif",
-    "id": "006c762e-886f-49dc-8147-5affbce6c105",
-    "visible": "off"
+    "id": "c9ec2fb1-c623-49ef-a11f-d977e8f92f46",
+    "visible": false
   },
   {
     "src": "parrots/imposterparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/imposterparrot.gif",
-    "id": "cf794d28-6983-4fd5-862f-f47078b6834a",
-    "visible": "off"
+    "id": "db040766-c218-4fa3-9443-56ec89111499",
+    "visible": false
   },
   {
     "src": "parrots/innersourceparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/innersourceparrot.gif",
-    "id": "75ae56b5-39ea-43d8-ab8f-7e4f4f994a88",
-    "visible": "off"
+    "id": "a3f907d3-2a81-49e1-926e-f2b3f4f011f7",
+    "visible": false
   },
   {
     "src": "parrots/inverseparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/inverseparrot.gif",
-    "id": "3daf9432-94e0-420b-8604-5b4aac4eac04",
-    "visible": "off"
+    "id": "3d7a2c7e-3c1b-488f-bd86-7448bec44e33",
+    "visible": false
   },
   {
     "src": "parrots/invisibleparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/invisibleparrot.gif",
-    "id": "502b5116-bc97-4a5d-9713-7f1eac94ab1f",
-    "visible": "off"
+    "id": "3b636d78-c8a2-4b9d-99da-dcc4c61770dc",
+    "visible": false
   },
   {
     "src": "parrots/jediparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/jediparrot.gif",
-    "id": "ed0f6d1f-8dd3-4b19-8f76-69c57cf3c518",
-    "visible": "off"
+    "id": "66ea29e1-d6e3-4236-a304-6bc12950cb7b",
+    "visible": false
   },
   {
     "src": "parrots/jumpingparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/jumpingparrot.gif",
-    "id": "f310028e-a82f-484a-8b4a-7b0a2da32974",
-    "visible": "off"
+    "id": "9a2eb003-ee79-4544-8cef-64fb8f5371d9",
+    "visible": false
   },
   {
     "src": "parrots/jumpingparrotjr.gif",
     "className": "Parrot",
     "dataSrc": "parrots/jumpingparrotjr.gif",
-    "id": "59349330-88ed-42cd-850f-879514b84c8e",
-    "visible": "off"
+    "id": "9c19204a-b1d9-4e45-845f-f829cf4ef046",
+    "visible": false
   },
   {
     "src": "parrots/laptop_parrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/laptop_parrot.gif",
-    "id": "0f0af474-82c6-4d1c-bb20-78b55eda45ad",
-    "visible": "off"
+    "id": "e800d5bb-89aa-45ad-a83c-4bde20c0e8e8",
+    "visible": false
   },
   {
     "src": "parrots/levitationparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/levitationparrot.gif",
-    "id": "396db1c4-d5fe-4de3-9193-d1d0ce79b781",
-    "visible": "off"
+    "id": "8b108630-0ed4-4c4e-9a5b-771b3f61c695",
+    "visible": false
   },
   {
     "src": "parrots/maracasparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/maracasparrot.gif",
-    "id": "fe68ac49-9b28-4d3d-b864-373118776b69",
-    "visible": "off"
+    "id": "5b864702-7526-41a3-86db-d6ca10054f6d",
+    "visible": false
   },
   {
     "src": "parrots/mardigrasparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/mardigrasparrot.gif",
-    "id": "5c5e3832-66b8-4ece-88b4-08ad95d2b304",
-    "visible": "off"
+    "id": "f3367afa-fbde-48bd-95ce-1975c5209aee",
+    "visible": false
   },
   {
     "src": "parrots/marshmallowparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/marshmallowparrot.gif",
-    "id": "aca8eae4-293b-4e5b-9151-413475e5287f",
-    "visible": "off"
+    "id": "4a284f7e-431d-4960-b585-e6de135ffb1a",
+    "visible": false
   },
   {
     "src": "parrots/meldparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/meldparrot.gif",
-    "id": "754586e6-2b23-492d-98fb-948d4447a7b6",
-    "visible": "off"
+    "id": "85376132-8c09-4edc-89cb-28e8c531f130",
+    "visible": false
   },
   {
     "src": "parrots/michaeljacksonparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/michaeljacksonparrot.gif",
-    "id": "6920e8d4-e255-4413-88e7-9cdf8d984413",
-    "visible": "off"
+    "id": "13c781ba-9bcd-4ac8-8303-d024c901a84f",
+    "visible": false
   },
   {
     "src": "parrots/middleparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/middleparrot.gif",
-    "id": "91784ab5-6ba8-4ae5-8d84-32992c3e82e8",
-    "visible": "off"
+    "id": "9867d138-13af-4532-9403-42938e962348",
+    "visible": false
   },
   {
     "src": "parrots/moonparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/moonparrot.gif",
-    "id": "fec16793-f1a3-4160-9064-e33b9e51bf5f",
-    "visible": "off"
+    "id": "6de19832-c161-44d7-be04-9dc409cbe745",
+    "visible": false
   },
   {
     "src": "parrots/moonwalkingparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/moonwalkingparrot.gif",
-    "id": "54af094c-ee96-483a-8003-e04c06d679af",
-    "visible": "off"
+    "id": "5a176645-4974-4118-a421-cef37ec344ec",
+    "visible": false
   },
   {
     "src": "parrots/mustacheparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/mustacheparrot.gif",
-    "id": "ecedaf19-5c6d-4f63-98a2-769fd00d8b3b",
-    "visible": "off"
+    "id": "538efee1-836f-45bf-9486-8d178ed039c8",
+    "visible": false
   },
   {
     "src": "parrots/nodeparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/nodeparrot.gif",
-    "id": "7ead4445-c96f-4bc4-9ea6-c2bb6d594438",
-    "visible": "off"
+    "id": "a2561c10-915e-4001-aca3-1df25b555cf9",
+    "visible": false
   },
   {
     "src": "parrots/norwegianblueparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/norwegianblueparrot.gif",
-    "id": "1e225225-a4b9-43ee-bbc9-3b080d5d3dc8",
-    "visible": "off"
+    "id": "908bd2e1-7e21-4e8a-921c-2322e489b704",
+    "visible": false
   },
   {
     "src": "parrots/opensourceparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/opensourceparrot.gif",
-    "id": "3fdb2b8f-c276-4493-9d7a-b8b342e6bd19",
-    "visible": "off"
+    "id": "e1a40db7-0d51-4383-9be4-f701e26996cd",
+    "visible": false
   },
   {
     "src": "parrots/originalparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/originalparrot.gif",
-    "id": "6b785da8-1824-40b1-9686-71703adf9b3c",
-    "visible": "off"
+    "id": "d592a5b9-eb2a-48b3-b57e-52c9a13cad5a",
+    "visible": false
   },
   {
     "src": "parrots/parrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/parrot.gif",
-    "id": "be6351cf-178e-4c3a-876f-1decf92be5d1",
-    "visible": "off"
+    "id": "31a67e5f-05e5-4b30-8b05-44d780b2f90f",
+    "visible": false
   },
   {
     "src": "parrots/parrotnotfound.gif",
     "className": "Parrot",
     "dataSrc": "parrots/parrotnotfound.gif",
-    "id": "81620fd6-74a7-4614-90c0-fec9906c7d56",
-    "visible": "off"
+    "id": "434c6851-e93e-4544-ac3f-5512d51751be",
+    "visible": false
   },
   {
     "src": "parrots/partyparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/partyparrot.gif",
-    "id": "350fd5ee-fc98-44f5-880a-6c360846cc9e",
-    "visible": "off"
+    "id": "b05e64f9-76e3-4052-8913-8d5404f7e04a",
+    "visible": false
   },
   {
     "src": "parrots/phparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/phparrot.gif",
-    "id": "189a6577-09a9-49ed-97d5-bd639c1b5e5c",
-    "visible": "off"
+    "id": "5427962e-3ad5-4b72-94b3-2d63f14b7681",
+    "visible": false
   },
   {
     "src": "parrots/picassoparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/picassoparrot.gif",
-    "id": "01a796e7-7611-48ee-8058-b60b4bd1ab47",
-    "visible": "off"
+    "id": "b9e444f2-9c01-438f-8f0a-3b4f5df3ab03",
+    "visible": false
   },
   {
     "src": "parrots/pingpongparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/pingpongparrot.gif",
-    "id": "8688106e-82e9-4c45-a94d-ecab1b18fe8f",
-    "visible": "off"
+    "id": "4436c5d1-5b9d-4262-94dc-db584a5646b2",
+    "visible": false
   },
   {
     "src": "parrots/pirateparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/pirateparrot.gif",
-    "id": "a2143c07-f9a0-4537-ac8b-8a3f760bddb1",
-    "visible": "off"
+    "id": "9227167b-5532-4d55-b114-555a73d8ad12",
+    "visible": false
   },
   {
     "src": "parrots/playcatchleftparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/playcatchleftparrot.gif",
-    "id": "5f2858c1-20d8-4446-9c22-9336a560b0a3",
-    "visible": "off"
+    "id": "0bd8ce2f-a0c0-4a76-9316-372287d82f19",
+    "visible": false
   },
   {
     "src": "parrots/playcatchrightparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/playcatchrightparrot.gif",
-    "id": "ca0431c0-5096-4030-b5e6-5f448f5178b9",
-    "visible": "off"
+    "id": "5d87ba2e-7f39-4996-9d89-8b9170259e25",
+    "visible": false
   },
   {
     "src": "parrots/pokeparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/pokeparrot.gif",
-    "id": "81ba8a6b-e25a-48c8-aabc-76308f5590cb",
-    "visible": "off"
+    "id": "d59c5bb8-bf9c-4dca-b8d9-436bf672d5ec",
+    "visible": false
   },
   {
     "src": "parrots/popcornparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/popcornparrot.gif",
-    "id": "d7ec0df9-3370-4f80-ad51-36f77fa1064e",
-    "visible": "off"
+    "id": "a95714af-87df-4919-9591-fa1573eaf3b3",
+    "visible": false
   },
   {
     "src": "parrots/portalblueparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/portalblueparrot.gif",
-    "id": "d1d8243a-15bf-43d8-af3d-63647a94d071",
-    "visible": "off"
+    "id": "cad2766b-338a-4713-a191-d5e9743c8051",
+    "visible": false
   },
   {
     "src": "parrots/portalorangeparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/portalorangeparrot.gif",
-    "id": "1704c6db-ae23-4b60-bff2-ec0f58c3fb5d",
-    "visible": "off"
+    "id": "d92d0e87-84c0-4d5f-8246-40b3b402915d",
+    "visible": false
   },
   {
     "src": "parrots/pumpkinparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/pumpkinparrot.gif",
-    "id": "c7eb7a7e-670a-4b2c-8c7d-3f42272f1f33",
-    "visible": "off"
+    "id": "faee3386-0a3d-4161-b06a-f0844d12eaec",
+    "visible": false
   },
   {
     "src": "parrots/quadparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/quadparrot.gif",
-    "id": "60bc8b65-0887-4acc-ade2-ddb3f200501d",
-    "visible": "off"
+    "id": "3906a156-5765-4609-b4ad-07a1164e937f",
+    "visible": false
   },
   {
     "src": "parrots/redenvelopeparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/redenvelopeparrot.gif",
-    "id": "66d839cf-86be-4b4f-81b3-c2f4cf446459",
-    "visible": "off"
+    "id": "855a37fd-c0a2-467d-86b0-11ab42986fa9",
+    "visible": false
   },
   {
     "src": "parrots/redhatparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/redhatparrot.gif",
-    "id": "07dd7351-8ce3-4f4f-b413-7b86482ac1d2",
-    "visible": "off"
+    "id": "1727f754-070c-4494-ac28-96f40a9a5aee",
+    "visible": false
   },
   {
     "src": "parrots/reversecongaparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/reversecongaparrot.gif",
-    "id": "0e4112ba-833b-4ed2-880d-9c58367daf13",
-    "visible": "off"
+    "id": "602f24cf-44e3-417f-a55d-d4dcba92cf66",
+    "visible": false
   },
   {
     "src": "parrots/reverseparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/reverseparrot.gif",
-    "id": "8298588f-488e-4217-a641-0367be8e5acf",
-    "visible": "off"
+    "id": "b6c2eabf-3014-4a9c-a602-ef501b2dfada",
+    "visible": false
   },
   {
     "src": "parrots/reverseportalblueparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/reverseportalblueparrot.gif",
-    "id": "c988b517-9533-4d33-9953-e3e46e431645",
-    "visible": "off"
+    "id": "c4e1265a-f9ed-4917-bf74-062607cd1b27",
+    "visible": false
   },
   {
     "src": "parrots/reverseportalorangeparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/reverseportalorangeparrot.gif",
-    "id": "4f533d5c-1560-4ebf-86e7-9cfd1032b80f",
-    "visible": "off"
+    "id": "ac586fa1-68bf-4946-87a8-2c793fdfd54a",
+    "visible": false
   },
   {
     "src": "parrots/revolutionparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/revolutionparrot.gif",
-    "id": "f41d08e2-deb3-45e1-9415-4657622412ca",
-    "visible": "off"
+    "id": "576ced71-6fcb-4d1b-bb50-e039bfe0f8f6",
+    "visible": false
   },
   {
     "src": "parrots/rubyparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/rubyparrot.gif",
-    "id": "0dc7c243-01ff-42d9-a92f-2a8e7d410f1a",
-    "visible": "off"
+    "id": "c0d62aef-842b-4f67-8408-35ac29760037",
+    "visible": false
   },
   {
     "src": "parrots/rythmicalparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/rythmicalparrot.gif",
-    "id": "e3a7d203-dcf0-4c5a-94be-d89404b5347a",
-    "visible": "off"
+    "id": "381f8743-fcaf-457f-b70e-0f347a0f48d6",
+    "visible": false
   },
   {
     "src": "parrots/sadparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/sadparrot.gif",
-    "id": "ae9272e3-2302-4ff8-9190-e51393675e8a",
-    "visible": "off"
+    "id": "1f63b83d-e26e-4773-bafc-b8dcbf1843a3",
+    "visible": false
   },
   {
     "src": "parrots/sassyparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/sassyparrot.gif",
-    "id": "ca41085c-42e3-45aa-b201-01c1b213cb68",
-    "visible": "off"
+    "id": "0be1215d-fb7b-4885-ae73-1d55881c0592",
+    "visible": false
   },
   {
     "src": "parrots/scienceparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/scienceparrot.gif",
-    "id": "6d030bb5-4141-4c45-9ce6-a012016e88cf",
-    "visible": "off"
+    "id": "99859b80-632f-4185-8e78-009f4c451ed6",
+    "visible": false
   },
   {
     "src": "parrots/sherlockholmesparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/sherlockholmesparrot.gif",
-    "id": "52c67d50-336b-4895-b96d-130d6e6e6005",
-    "visible": "off"
+    "id": "5d1966af-7836-4a62-9a69-01879d347367",
+    "visible": false
   },
   {
     "src": "parrots/shortparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/shortparrot.gif",
-    "id": "0982763d-a90a-4834-a061-680ac1c29863",
-    "visible": "off"
+    "id": "b88593d9-ab12-438d-aeda-62c5de5406cc",
+    "visible": false
   },
   {
     "src": "parrots/shuffleparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/shuffleparrot.gif",
-    "id": "d256728d-fb63-480a-8afa-ad421cfdbc2d",
-    "visible": "off"
+    "id": "12f39f55-2b26-4fcf-bb3b-bbc4471c3d26",
+    "visible": false
   },
   {
     "src": "parrots/sintparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/sintparrot.gif",
-    "id": "08807a21-8265-4e08-a06c-1d1339c1254d",
-    "visible": "off"
+    "id": "0545d851-b30a-467a-b58a-35e44367c429",
+    "visible": false
   },
   {
     "src": "parrots/sithparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/sithparrot.gif",
-    "id": "80fff866-6f95-4faf-9966-22d6858a6e1b",
-    "visible": "off"
+    "id": "11582619-9891-44bd-9172-a6dab029e562",
+    "visible": false
   },
   {
     "src": "parrots/sleepingparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/sleepingparrot.gif",
-    "id": "4953104b-639e-497d-b36f-cef82a44a49a",
-    "visible": "off"
+    "id": "fa49cc5b-e69b-4ebf-b9d6-b91252b8491f",
+    "visible": false
   },
   {
     "src": "parrots/slowparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/slowparrot.gif",
-    "id": "7d1a416e-5eb4-44a0-ae09-427c497a2736",
-    "visible": "off"
+    "id": "59b6cc1f-3bc8-4c12-b539-6d8e282c55c6",
+    "visible": false
   },
   {
     "src": "parrots/spinningparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/spinningparrot.gif",
-    "id": "ed2be250-c17e-4e61-b834-3348efcf42dc",
-    "visible": "off"
+    "id": "e44ca2b7-fff4-41a6-ace8-40c01cf7e4f3",
+    "visible": false
   },
   {
     "src": "parrots/spyparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/spyparrot.gif",
-    "id": "749c97ce-625b-4bf0-9066-7258c6efdc38",
-    "visible": "off"
+    "id": "6ba81d8b-b884-4fc8-a2e6-9dab5fad0254",
+    "visible": false
   },
   {
     "src": "parrots/stableparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/stableparrot.gif",
-    "id": "2981e6f4-2196-42ab-8f65-0ac9968f388e",
-    "visible": "off"
+    "id": "eafef906-6c4d-4844-a895-77707313b93e",
+    "visible": false
   },
   {
     "src": "parrots/stayhomeparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/stayhomeparrot.gif",
-    "id": "9cb650a6-03ed-44cb-b2ba-f893b6225999",
-    "visible": "off"
+    "id": "288c3ac9-07c4-48ae-a836-3745df1ae4fc",
+    "visible": false
   },
   {
     "src": "parrots/stayhomeparrotcloser.gif",
     "className": "Parrot",
     "dataSrc": "parrots/stayhomeparrotcloser.gif",
-    "id": "6ebbe48b-7834-4104-bf0c-516cc1576b6a",
-    "visible": "off"
+    "id": "3597d82d-07a6-45ed-a4dc-9239dbedd16a",
+    "visible": false
   },
   {
     "src": "parrots/stayhomeparrotwindow.gif",
     "className": "Parrot",
     "dataSrc": "parrots/stayhomeparrotwindow.gif",
-    "id": "c3387d9d-c89b-498e-a474-f91d0f513588",
-    "visible": "off"
+    "id": "4e5a342c-c422-4439-8bc5-90ca398bfe28",
+    "visible": false
   },
   {
     "src": "parrots/staytfhomeparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/staytfhomeparrot.gif",
-    "id": "14002001-691b-4cf5-a75b-7403b6bc85d7",
-    "visible": "off"
+    "id": "257aa151-3a83-49c6-9334-22712fa2fa4d",
+    "visible": false
   },
   {
     "src": "parrots/sushiparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/sushiparrot.gif",
-    "id": "57c1ef30-8982-4455-8417-9de489a7a8f2",
-    "visible": "off"
+    "id": "e2a82665-cd5d-424a-b88b-1e6672aaa090",
+    "visible": false
   },
   {
     "src": "parrots/tennisparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/tennisparrot.gif",
-    "id": "c093eb79-364b-4e51-a040-cc28b375ea5d",
-    "visible": "off"
+    "id": "e7b2377b-71e9-4679-a2f4-1ef7e2bd9da0",
+    "visible": false
   },
   {
     "src": "parrots/thefastestparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/thefastestparrot.gif",
-    "id": "22531ddb-8982-4c86-8b4a-bafdb8ca10cd",
-    "visible": "off"
+    "id": "55dc6848-4248-4fbb-bc89-fe50c5667a11",
+    "visible": false
   },
   {
     "src": "parrots/thumbsupparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/thumbsupparrot.gif",
-    "id": "dd5ed543-e8ef-4eca-84f7-690b0bb2cb6e",
-    "visible": "off"
+    "id": "31df3f98-8986-4963-a2fa-790c4491b92c",
+    "visible": false
   },
   {
     "src": "parrots/tiedyeparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/tiedyeparrot.gif",
-    "id": "06e33a5d-9861-4e66-b346-70526aac40b9",
-    "visible": "off"
+    "id": "9ed69518-18d1-41f9-a57e-f2ec2bd06869",
+    "visible": false
   },
   {
     "src": "parrots/tinfoilhatparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/tinfoilhatparrot.gif",
-    "id": "936d26ea-8ec1-46cb-abdb-c4868994be0d",
-    "visible": "off"
+    "id": "65a2658a-27b9-4886-b758-42ac263faca7",
+    "visible": false
   },
   {
     "src": "parrots/tpparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/tpparrot.gif",
-    "id": "0c09feb3-a36d-4812-b126-6df99f0943a5",
-    "visible": "off"
+    "id": "049fa552-feff-4658-a748-e94b6b955c75",
+    "visible": false
   },
   {
     "src": "parrots/transparront.gif",
     "className": "Parrot",
     "dataSrc": "parrots/transparront.gif",
-    "id": "68fba978-5f06-4bed-a571-4ba582c9d190",
-    "visible": "off"
+    "id": "6ffc8ec5-f49f-4c6e-a906-a7f9c05b2691",
+    "visible": false
   },
   {
     "src": "parrots/turndownforwatchparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/turndownforwatchparrot.gif",
-    "id": "f5110da7-8752-4f54-970e-83f9bf40f9e3",
-    "visible": "off"
+    "id": "f22fffe1-ca39-40a5-92b2-9f162bc101fb",
+    "visible": false
   },
   {
     "src": "parrots/twinsparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/twinsparrot.gif",
-    "id": "c8481abf-c495-4bbb-9712-95fefc3b11b9",
-    "visible": "off"
+    "id": "dac484d4-ae27-4fdb-b510-8d31040c3535",
+    "visible": false
   },
   {
     "src": "parrots/ultrafastparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/ultrafastparrot.gif",
-    "id": "10e7d2b7-2680-47c0-bb7b-7f3f321a689b",
-    "visible": "off"
+    "id": "928ce604-5f38-4c01-a17e-a91dfb4edf54",
+    "visible": false
   },
   {
     "src": "parrots/verticalparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/verticalparrot.gif",
-    "id": "9a82727d-1430-4df1-aa3b-1f5f759b5c14",
-    "visible": "off"
+    "id": "e65d73e6-f5d9-4b05-b8ba-8acace7b2209",
+    "visible": false
   },
   {
     "src": "parrots/vikingparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/vikingparrot.gif",
-    "id": "1713ce12-5e74-4830-a109-165cff4ba149",
-    "visible": "off"
+    "id": "0867dc30-73bf-4ee7-8d85-2a0a175d1166",
+    "visible": false
   },
   {
     "src": "parrots/wendyparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/wendyparrot.gif",
-    "id": "f3d972fe-3b15-4062-bbb1-202e42c96d82",
-    "visible": "off"
+    "id": "442ca9bf-79ff-429f-80fd-866a955ba650",
+    "visible": false
   },
   {
     "src": "parrots/wfhparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/wfhparrot.gif",
-    "id": "6f001ed4-6cdd-4c98-93fe-98e5d56cba2e",
-    "visible": "off"
+    "id": "08d5a4fa-7645-4880-8aef-4c0ef04b58ba",
+    "visible": false
   },
   {
     "src": "parrots/whitewalkerparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/whitewalkerparrot.gif",
-    "id": "90cace26-1b0b-48ba-aaec-caaffee1a56e",
-    "visible": "off"
+    "id": "634ac044-c74b-4c22-bb0c-d5ed068db5f3",
+    "visible": false
   },
   {
     "src": "parrots/wineparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/wineparrot.gif",
-    "id": "1964e8f8-e8c3-4f19-997b-35ecf7d8326d",
-    "visible": "off"
+    "id": "ea735a43-32af-4da4-90d3-b660d6695e21",
+    "visible": false
   },
   {
     "src": "parrots/yosemitesamparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/yosemitesamparrot.gif",
-    "id": "6ca5ba82-d0ae-448a-ac8c-3b1f5311e446",
-    "visible": "off"
+    "id": "3b19b110-81eb-4263-b6c5-e97470af8127",
+    "visible": false
   },
   {
     "src": "parrots/zoukparrot.gif",
     "className": "Parrot",
     "dataSrc": "parrots/zoukparrot.gif",
-    "id": "2120618d-5327-4e5a-93fe-9058fb065c78",
-    "visible": "off"
+    "id": "ef1a44f7-e6ca-4789-a39b-957ac7021767",
+    "visible": false
   }
 ]

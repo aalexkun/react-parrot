@@ -10,7 +10,7 @@ let parrotArmy = fs.readdirSync(testFolder, {withFileTypes: true})
          "className":  "Parrot",
          "dataSrc": `parrots/${item.name}`,
           "id": uuid.v4(),
-          "visible": "off"
+          "visible": false
         })
     )
 

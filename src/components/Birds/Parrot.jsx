@@ -1,21 +1,54 @@
-import React from "react";
+import React, {useState} from "react";
+import HelpOutlineOutlinedIcon from "@material-ui/icons/HelpOutlineOutlined";
 
-export default function (props) {
+import { makeStyles } from '@material-ui/core/styles';
 
-    return {
-        '_type': 'Parrot',
-        'render' : function(){
-            return (
-                    <img src={this.src}
-                         data-src={this.dataSrc}
-                         alt="Parrot">
+const boxProperties = {
+    height: "128px",
+    width: "128px",
+}
+const useStyles = makeStyles((theme) => ({
 
-                    </img>
-            )
-        },
-        'isVisible' : function(){
-          return  this.visible.toUpperCase() === "ON"
-        },
-        ...props
+    bird: {
+        ...boxProperties
+    },
+    bird_cage: {
+        ...boxProperties
+    },
+    visible: {
+        display: "block"
+    },
+    hidden: {
+        display: "none"
     }
+
+}));
+
+
+export default function Parrot(bird) {
+
+    const classes = useStyles();
+    const [visible,setBirdVisibility] = useState(bird.visible);
+
+    function toggleVisibility() {
+        setBirdVisibility(visible => !visible);
+    }
+
+
+    return (
+        <>
+            <HelpOutlineOutlinedIcon className={ `${classes.bird_cage} ${ visible ? classes.hidden : classes.visible}` }
+                                     onClick={toggleVisibility} >
+            </HelpOutlineOutlinedIcon>
+            <div className={ `${classes.bird} ${ visible ? classes.visible : classes.hidden}`  }
+                 onClick={toggleVisibility} >
+                <img src={bird.src}
+                     data-src={bird.dataSrc}
+                     alt="Parrot">
+                </img>
+            </div>
+        </>
+    )
+
+
 }

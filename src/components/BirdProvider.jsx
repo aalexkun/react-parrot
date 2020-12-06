@@ -11,20 +11,15 @@ export default function BirdProvider({children}) {
 
     const [birds, setBirds] = useState(birdData);
 
-    const flipBird = (ev,clickedBird,visible) => {
-
-        setBirds(
-            birds.map(bird => (bird.id === clickedBird.id ? {...bird, visible} : bird))
-        );
-    }
 
     const resetBirds = () => setBirds(
-        birds.map(bird =>  ({...bird, visible: "OFF"}) )
+
+        birds.map(bird =>  ({...bird, visible: false}) )
     );
 
 
     return (
-        <ContextBirds.Provider value={{birds,flipBird,resetBirds}}>
+        <ContextBirds.Provider value={{birds,resetBirds}}>
             {children}
         </ContextBirds.Provider>
     )
