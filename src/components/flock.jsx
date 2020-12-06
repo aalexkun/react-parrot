@@ -40,7 +40,7 @@ export default function Flock() {
     return(
         parrots.map((p) => (
 
-                <Grid item xs spacing={3}>
+                <Grid item >
                     <HelpOutlineOutlinedIcon className={ `${classes.bird_cage} ${( p.isVisible() ? classes.hidden : classes.visible )}` }
                                              onClick={ (ev) => flipBird(ev,p,"ON") }>
 

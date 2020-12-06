@@ -21,7 +21,7 @@ function App() {
                   <SimpleMenu>
 
                   </SimpleMenu>
-                  <Grid container direction="row" justify="space-between" alignItems="center">
+                  <Grid container direction="row" justify="space-evenly" alignItems="center">
                       <Flock>
 
                       </Flock>
