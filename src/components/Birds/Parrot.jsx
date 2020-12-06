@@ -6,7 +6,7 @@ export default function (props) {
         '_type': 'Parrot',
         'render' : function(){
             return (
-                    <img src={`${process.env.PUBLIC_URL}${this.src}`}
+                    <img src={this.src}
                          data-src={this.dataSrc}
                          alt="Parrot">
 
